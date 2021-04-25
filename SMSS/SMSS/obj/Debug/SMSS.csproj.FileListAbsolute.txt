@@ -1,0 +1,84 @@
+C:\Users\Farman Akram\source\repos\SMSS\SMSS\bin\Debug\SMSS.exe.config
+C:\Users\Farman Akram\source\repos\SMSS\SMSS\bin\Debug\SMSS.exe
+C:\Users\Farman Akram\source\repos\SMSS\SMSS\bin\Debug\SMSS.pdb
+C:\Users\Farman Akram\source\repos\SMSS\SMSS\obj\Debug\SMSS.frmMainInterface.resources
+C:\Users\Farman Akram\source\repos\SMSS\SMSS\obj\Debug\SMSS.Properties.Resources.resources
+C:\Users\Farman Akram\source\repos\SMSS\SMSS\obj\Debug\SMSS.csproj.GenerateResource.Cache
+C:\Users\Farman Akram\source\repos\SMSS\SMSS\obj\Debug\SMSS.csproj.CoreCompileInputs.cache
+C:\Users\Farman Akram\source\repos\SMSS\SMSS\obj\Debug\SMSS.exe
+C:\Users\Farman Akram\source\repos\SMSS\SMSS\obj\Debug\SMSS.pdb
+C:\Users\Farman Akram\source\repos\SMSS\SMSS\obj\Debug\SMSS.frmClass.resources
+C:\Users\Farman Akram\source\repos\SMSS\SMSS\obj\Debug\SMSS.frmStudent.resources
+C:\Users\Farman Akram\source\repos\SMSS\SMSS\obj\Debug\SMSS.frmCourse.resources
+E:\SMS WF\SMSS\SMSS\obj\Debug\SMSS.exe
+E:\SMS WF\SMSS\SMSS\obj\Debug\SMSS.pdb
+C:\Users\Farman Akram\source\repos\SMSS\SMSS\bin\Debug\MetroFramework.Design.dll
+C:\Users\Farman Akram\source\repos\SMSS\SMSS\bin\Debug\MetroFramework.dll
+C:\Users\Farman Akram\source\repos\SMSS\SMSS\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Farman Akram\source\repos\SMSS\SMSS\obj\Debug\SMSS.SplashScreen.resources
+C:\Users\Farman Akram\source\repos\SMSS\SMSS\obj\Debug\SMSS.LogIn.resources
+C:\Users\Farman Akram\source\repos\SMSS\SMSS\obj\Debug\SMSS.frmTeacher.resources
+C:\Users\Farman Akram\source\repos\SMSS\SMSS\obj\Debug\SMSS.frmUserPortal.resources
+C:\Users\Farman Akram\source\repos\SMSS\SMSS\obj\Debug\SMSS.Report.resources
+C:\Users\Farman Akram\source\repos\SMSS\SMSS\bin\Debug\itextsharp.dll
+C:\Users\Farman Akram\source\repos\SMSS\SMSS\bin\Debug\itextsharp.xml
+C:\Users\Farman Akram\source\repos\SMSS\SMSS\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\Farman Akram\source\repos\SMSS\SMSS\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Farman Akram\source\repos\SMSS\SMSS\obj\Debug\Interop.VBIDE.dll
+C:\Users\Farman Akram\source\repos\SMSS\SMSS\obj\Debug\SMSS.csproj.ResolveComReference.cache
+C:\Users\Farman Akram\source\repos\SMSS\SMSS\obj\Debug\SMSS.FeePortal.resources
+C:\Users\ALI AURANGZEB\Desktop\SCHOOL\SMSS\SMSS\bin\Debug\SMSS.exe.config
+C:\Users\ALI AURANGZEB\Desktop\SCHOOL\SMSS\SMSS\bin\Debug\SMSS.exe
+C:\Users\ALI AURANGZEB\Desktop\SCHOOL\SMSS\SMSS\bin\Debug\SMSS.pdb
+C:\Users\ALI AURANGZEB\Desktop\SCHOOL\SMSS\SMSS\bin\Debug\MetroFramework.Design.dll
+C:\Users\ALI AURANGZEB\Desktop\SCHOOL\SMSS\SMSS\bin\Debug\MetroFramework.dll
+C:\Users\ALI AURANGZEB\Desktop\SCHOOL\SMSS\SMSS\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ALI AURANGZEB\Desktop\SCHOOL\SMSS\SMSS\bin\Debug\itextsharp.xml
+C:\Users\ALI AURANGZEB\Desktop\SCHOOL\SMSS\SMSS\obj\Debug\SMSS.csprojAssemblyReference.cache
+C:\Users\ALI AURANGZEB\Desktop\SCHOOL\SMSS\SMSS\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\ALI AURANGZEB\Desktop\SCHOOL\SMSS\SMSS\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\ALI AURANGZEB\Desktop\SCHOOL\SMSS\SMSS\obj\Debug\Interop.VBIDE.dll
+C:\Users\ALI AURANGZEB\Desktop\SCHOOL\SMSS\SMSS\obj\Debug\SMSS.csproj.ResolveComReference.cache
+C:\Users\ALI AURANGZEB\Desktop\SCHOOL\SMSS\SMSS\obj\Debug\SMSS.frmClass.resources
+C:\Users\ALI AURANGZEB\Desktop\SCHOOL\SMSS\SMSS\obj\Debug\SMSS.frmCourse.resources
+C:\Users\ALI AURANGZEB\Desktop\SCHOOL\SMSS\SMSS\obj\Debug\SMSS.FeePortal.resources
+C:\Users\ALI AURANGZEB\Desktop\SCHOOL\SMSS\SMSS\obj\Debug\SMSS.LogIn.resources
+C:\Users\ALI AURANGZEB\Desktop\SCHOOL\SMSS\SMSS\obj\Debug\SMSS.frmMainInterface.resources
+C:\Users\ALI AURANGZEB\Desktop\SCHOOL\SMSS\SMSS\obj\Debug\SMSS.Properties.Resources.resources
+C:\Users\ALI AURANGZEB\Desktop\SCHOOL\SMSS\SMSS\obj\Debug\SMSS.Report.resources
+C:\Users\ALI AURANGZEB\Desktop\SCHOOL\SMSS\SMSS\obj\Debug\SMSS.SplashScreen.resources
+C:\Users\ALI AURANGZEB\Desktop\SCHOOL\SMSS\SMSS\obj\Debug\SMSS.frmStudent.resources
+C:\Users\ALI AURANGZEB\Desktop\SCHOOL\SMSS\SMSS\obj\Debug\SMSS.frmTeacher.resources
+C:\Users\ALI AURANGZEB\Desktop\SCHOOL\SMSS\SMSS\obj\Debug\SMSS.frmUserPortal.resources
+C:\Users\ALI AURANGZEB\Desktop\SCHOOL\SMSS\SMSS\obj\Debug\SMSS.csproj.GenerateResource.cache
+C:\Users\ALI AURANGZEB\Desktop\SCHOOL\SMSS\SMSS\obj\Debug\SMSS.csproj.CopyComplete
+C:\Users\ALI AURANGZEB\Desktop\SCHOOL\SMSS\SMSS\obj\Debug\SMSS.exe
+C:\Users\ALI AURANGZEB\Desktop\SCHOOL\SMSS\SMSS\obj\Debug\SMSS.pdb
+C:\Users\ALI AURANGZEB\Desktop\PROJECTS TEST\SCHOOL\SMSS\SMSS\bin\Debug\SMSS.exe.config
+C:\Users\ALI AURANGZEB\Desktop\PROJECTS TEST\SCHOOL\SMSS\SMSS\bin\Debug\SMSS.exe
+C:\Users\ALI AURANGZEB\Desktop\PROJECTS TEST\SCHOOL\SMSS\SMSS\bin\Debug\SMSS.pdb
+C:\Users\ALI AURANGZEB\Desktop\PROJECTS TEST\SCHOOL\SMSS\SMSS\bin\Debug\MetroFramework.Design.dll
+C:\Users\ALI AURANGZEB\Desktop\PROJECTS TEST\SCHOOL\SMSS\SMSS\bin\Debug\MetroFramework.dll
+C:\Users\ALI AURANGZEB\Desktop\PROJECTS TEST\SCHOOL\SMSS\SMSS\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ALI AURANGZEB\Desktop\PROJECTS TEST\SCHOOL\SMSS\SMSS\bin\Debug\itextsharp.xml
+C:\Users\ALI AURANGZEB\Desktop\PROJECTS TEST\SCHOOL\SMSS\SMSS\obj\Debug\SMSS.csprojAssemblyReference.cache
+C:\Users\ALI AURANGZEB\Desktop\PROJECTS TEST\SCHOOL\SMSS\SMSS\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\ALI AURANGZEB\Desktop\PROJECTS TEST\SCHOOL\SMSS\SMSS\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\ALI AURANGZEB\Desktop\PROJECTS TEST\SCHOOL\SMSS\SMSS\obj\Debug\Interop.VBIDE.dll
+C:\Users\ALI AURANGZEB\Desktop\PROJECTS TEST\SCHOOL\SMSS\SMSS\obj\Debug\SMSS.csproj.ResolveComReference.cache
+C:\Users\ALI AURANGZEB\Desktop\PROJECTS TEST\SCHOOL\SMSS\SMSS\obj\Debug\SMSS.frmClass.resources
+C:\Users\ALI AURANGZEB\Desktop\PROJECTS TEST\SCHOOL\SMSS\SMSS\obj\Debug\SMSS.frmCourse.resources
+C:\Users\ALI AURANGZEB\Desktop\PROJECTS TEST\SCHOOL\SMSS\SMSS\obj\Debug\SMSS.FeePortal.resources
+C:\Users\ALI AURANGZEB\Desktop\PROJECTS TEST\SCHOOL\SMSS\SMSS\obj\Debug\SMSS.LogIn.resources
+C:\Users\ALI AURANGZEB\Desktop\PROJECTS TEST\SCHOOL\SMSS\SMSS\obj\Debug\SMSS.frmMainInterface.resources
+C:\Users\ALI AURANGZEB\Desktop\PROJECTS TEST\SCHOOL\SMSS\SMSS\obj\Debug\SMSS.Properties.Resources.resources
+C:\Users\ALI AURANGZEB\Desktop\PROJECTS TEST\SCHOOL\SMSS\SMSS\obj\Debug\SMSS.Report.resources
+C:\Users\ALI AURANGZEB\Desktop\PROJECTS TEST\SCHOOL\SMSS\SMSS\obj\Debug\SMSS.SplashScreen.resources
+C:\Users\ALI AURANGZEB\Desktop\PROJECTS TEST\SCHOOL\SMSS\SMSS\obj\Debug\SMSS.frmStudent.resources
+C:\Users\ALI AURANGZEB\Desktop\PROJECTS TEST\SCHOOL\SMSS\SMSS\obj\Debug\SMSS.frmTeacher.resources
+C:\Users\ALI AURANGZEB\Desktop\PROJECTS TEST\SCHOOL\SMSS\SMSS\obj\Debug\SMSS.frmUserPortal.resources
+C:\Users\ALI AURANGZEB\Desktop\PROJECTS TEST\SCHOOL\SMSS\SMSS\obj\Debug\SMSS.csproj.GenerateResource.cache
+C:\Users\ALI AURANGZEB\Desktop\PROJECTS TEST\SCHOOL\SMSS\SMSS\obj\Debug\SMSS.csproj.CoreCompileInputs.cache
+C:\Users\ALI AURANGZEB\Desktop\PROJECTS TEST\SCHOOL\SMSS\SMSS\obj\Debug\SMSS.csproj.CopyComplete
+C:\Users\ALI AURANGZEB\Desktop\PROJECTS TEST\SCHOOL\SMSS\SMSS\obj\Debug\SMSS.exe
+C:\Users\ALI AURANGZEB\Desktop\PROJECTS TEST\SCHOOL\SMSS\SMSS\obj\Debug\SMSS.pdb
